@@ -1,0 +1,1 @@
+# the-new-wp-theme
